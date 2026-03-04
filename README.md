@@ -2,3 +2,4 @@
 
 ## lista de colaboradores
 - sebastian buitrago
+- Juan Jose Gonzalez Rosales
